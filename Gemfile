@@ -43,3 +43,5 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+
+#https://powerful-harbor-40876.herokuapp.com/
